@@ -1,1 +1,2 @@
-# Data-Mining-Project-
+# Data-Mining-Project
+## Kaggle - Telco Customer Churn Dataset
